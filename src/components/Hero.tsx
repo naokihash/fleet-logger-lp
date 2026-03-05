@@ -5,14 +5,16 @@ export default function Hero() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <h1 className="text-3xl md:text-5xl font-bold text-white leading-tight">
-              2024年問題、
+              ドライバーの記録が、
               <br />
-              記録で備える。
+              会社を守ります。
             </h1>
             <p className="mt-6 text-lg text-white/90 leading-relaxed">
-              写真を撮るだけで日報が完成。電波がなくても止まらない。
+              時間外労働960時間規制の時代。
               <br className="hidden md:block" />
-              郡山の運送会社が選んだ、現場のための運行記録アプリ。
+              正確な運行記録が、ドライバーと会社を守る証明になります。
+              <br className="hidden md:block" />
+              郡山の運送会社が選んだ、現場のための日報管理アプリ。
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4">
               <a
